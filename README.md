@@ -2,9 +2,10 @@
 
 ## Introduction
 
-In mathematics , the fibonacci sequence is a sequence in which each number is the sum of the two preceding ones. This sequence was first introduced by mathematicians in india almost 1400 years ago. It made it's first appearance in the west in 1202 by a man named leonardo of pisa, who is also known as "Fibonacci". The Fibonacci sequence was introduced In Fibonacci's first book "liber Abaci" where he experimented with the fibonacci sequence by calculating the growth of rabbit populations. Within this experiment is where he was able to discover the fibonacci sequence.  
+In mathematics , the fibonacci sequence is a sequence in which each number is the sum of the two preceding ones. This sequence was first introduced by mathematicians in india almost 1400 years ago. It made it's first appearance in the west in 1202 by a man named leonardo of pisa, who is also known as "Fibonacci". The Fibonacci sequence was introduced In Fibonacci's first book "liber Abaci" where he experimented with the fibonacci sequence by calculating the growth of rabbit populations. Within this experiment is where he was able to discover the fibonacci sequence. 
+ ![Alt text](<Fibonacci sequence.png>)
 
-![Fibonacci Numbers sequence](<Fibonacci sequence.jpeg>)
+
 ![The Golden Ratio](1_9J2Wf2sapv9XeYtjQzPwVA.gif)
 ## Algorithm Description
 We first define the function "Fibonacci" and we pass a parameter of (n) that returns the nth from the Fibonacci sequence. Next we create a constant called "Fibonacci" and initialize a array and add the first two numbers of the sequence which are 0 and 1. We now have to populate the array with the rest of the sequence, to do that we need to create a for loop that starts at the index of 2 since we already have an index of 0 and 1. We then iterate till we have all needed elements in the array. in each iteration of the for loop we populate the value of index i by adding the previous two previous elements in the Fibonacci array. Lastly we return our constant array.
