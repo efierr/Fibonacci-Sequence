@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In mathematics , the fibonacci sequence is a sequence in which each number is the sum of the two preceding ones. This sequence was first introduced by a mathematician in india named Virahanka 600 prior its introduction to the west. It made it's first appearance in the west in 1202 by a man named leonardo of pisa, who is also known as "Fibonacci". The Fibonacci sequence was introduced In Fibonacci's first book "liber Abaci" where he experimented with the fibonacci sequence by calculating the growth of rabbit populations. Within this experiment is where he was able to discover the fibonacci sequence. 
+In mathematics, the fibonacci sequence is a sequence in which each number is the sum of the two preceding ones. This sequence was first introduced by a mathematician in india named Virahanka 600 years prior its introduction to the west. It made it's first appearance in the west in 1202 by a man named leonardo of pisa, who is also known as "Fibonacci". The Fibonacci sequence was introduced In Fibonacci's first book "liber Abaci" where he experimented with the fibonacci sequence by calculating the growth of rabbit populations. Within this experiment is where he was able to discover the fibonacci sequence. 
  ![Alt text](<Fibonacci sequence.png>)
 
 ## Golden Ratio
@@ -31,11 +31,11 @@ Space complexity in the function above is O(n) as it only carries one constant v
 ## Use Cases
 There are many uses for the fibonacci sequence.
 
-In art and design, many architects use the fibonacci sequence to incorporate the golden ratio in building designs such as windows, doors, and even buildings.
+In art and design, many architects use the fibonacci sequence to incorporate the golden ratio in building designs such as windows, doors, and even buildings to calculate perfect rectangles.
 
 in computer science, the fibonacci numbers are used in algorithms such as dynamic programming and recursive algorithms.
 
-Since the fibonacci sequence is closely associated with the golden ratio
+Since the fibonacci sequence is closely associated with the golden ratio, it shows a connection to the aesthetics of nature. it is shown in the spiral of shells, and arrangement of leaves and the growth pattern in plants. All these follow the proportionate beauty of the golden ratio. 
 
 
 
