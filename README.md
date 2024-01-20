@@ -4,7 +4,7 @@
 
 In mathematics , the fibonacci sequence is a sequence in which each number is the sum of the two preceding ones. This sequence was first introduced by mathematicians in india almost 1400 years ago. It made it's first appearance in the west in 1202 by a man leonardo of pisa, who is also known as "Fibonacci". The Fibonacci sequence was introduced In Fibonacci's first book "liber Abaci" where he experimented with the fibonacci sequence by calculating the growth of rabbit populations. Within this experiment is where he was able to discover the fibonacci sequence.  
 
-[Fibonacci Sequence](https://www.google.com/url?sa%253Di%2526url%253Dhttps%253A%252F%252Fmedium.com%252Flaunch-school%252Frecursive-fibonnaci-method-explained-d82215c5498e%2526psig%253DAOvVaw2_tGuVbw1ZXSjL0H77unPg%2526ust%253D1705820900291000%2526source%253Dimages%2526cd%253Dvfe%2526opi%253D89978449%2526ved%253D0CBMQjRxqFwoTCKiZ75m064MDFQAAAAAdAAAAABAD)
+[Fibonacci Sequence](https://miro.medium.com/v2/resize:fit:925/1*svQ784qk1hvBE3iz7VGGgQ.jpeg)
 
 ## Algorithm Description
 We first define the function "Fibonacci" and we pass a parameter of (n) that returns the nth from the Fibonacci sequence. Next we create a constant called "Fibonacci" and initialize a array and add the first two numbers of the sequence which are 0 and 1. We now have to populate the array with the rest of the sequence, to do that we need to create a for loop that starts at the index of 2 since we already have an index of 0 and 1. We then iterate till we have all needed elements in the array. in each iteration of the for loop we populate the value of index i by adding the previous two previous elements in the Fibonacci array. Lastly we return our constant array.
