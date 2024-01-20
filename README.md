@@ -16,7 +16,7 @@ We first define the function "Fibonacci" and we pass a parameter of (n) that ret
 ![Function](<Screenshot 2024-01-20 at 2.41.43 AM.png>)
 ## Fibonacci Search
 The fibonacci search is a algorithm that uses a divide and conquer approach to search for elements in a sorted array. While similar to the binary search algorithm, Using fibonacci search, it divides the array into two parts that are proportional to the fibonacci sequence.
-
+While Fibonacci search offers more balanced partitions, its advantages are limited compared to other more efficient search algorithms. the time complexity of the fibonacci search is o(log n) where n is the size of the sorted array. the space complexity is o(1) due to the constant amount of extra space regardless of the input size.
 
 
 ## Big O Evaluation
