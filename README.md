@@ -37,7 +37,8 @@ Memory considerations: as 'n' becomes larger, the array will also become larger,
 
 ## Citations
 
-https://en.wikipedia.org/wiki/Fibonacci_sequence
+[Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence)
+
 https://en.wikipedia.org/wiki/Fibonacci
 https://medium.com/developers-writing/fibonacci-sequence-algorithm-in-javascript-b253dc7e320e
 https://chat.openai.com/share/865930e6-f787-4890-9cfb-755b08209782
