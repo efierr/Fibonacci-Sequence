@@ -2,9 +2,12 @@
 
 ## Introduction
 
-In mathematics , the fibonacci sequence is a sequence in which each number is the sum of the two preceding ones. This sequence was first introduced by mathematicians in india almost 1400 years ago. It made it's first appearance in the west in 1202 by a man named leonardo of pisa, who is also known as "Fibonacci". The Fibonacci sequence was introduced In Fibonacci's first book "liber Abaci" where he experimented with the fibonacci sequence by calculating the growth of rabbit populations. Within this experiment is where he was able to discover the fibonacci sequence. 
+In mathematics , the fibonacci sequence is a sequence in which each number is the sum of the two preceding ones. This sequence was first introduced by a mathematician in india named Virahanka 600 prior its introduction to the west. It made it's first appearance in the west in 1202 by a man named leonardo of pisa, who is also known as "Fibonacci". The Fibonacci sequence was introduced In Fibonacci's first book "liber Abaci" where he experimented with the fibonacci sequence by calculating the growth of rabbit populations. Within this experiment is where he was able to discover the fibonacci sequence. 
  ![Alt text](<Fibonacci sequence.png>)
 
+## Golden Ratio
+The golden ratio is an irrational number, commonly denoted by the Greek letter phi (φ), whose decimal representation is approximately 1.618033988749895. This constant exhibits the property of being irrational, meaning that its decimal expansion is non-repeating and non-terminating. As the fibonacci sequence increases, the ratio of a number to its predecessor approaches the golden ratio.
+![Alt text](Fibonacci-Golden-Ratio.png)
 
 ![The Golden Ratio](1_9J2Wf2sapv9XeYtjQzPwVA.gif)
 ## Algorithm Description
@@ -32,7 +35,7 @@ In art and design, many architects use the fibonacci sequence to incorporate the
 
 in computer science, the fibonacci numbers are used in algorithms such as dynamic programming and recursive algorithms.
 
-
+Since the fibonacci sequence is closely associated with the golden ratio
 
 
 
@@ -46,7 +49,11 @@ Memory considerations: as 'n' becomes larger, the array will also become larger,
 ## Citations
 
 [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence)
+
 [Fibonacci Search](https://stackabuse.com/bytes/fibonacci-search-in-javascript/)
+
 [Leonardo of pisa autobiography](https://en.wikipedia.org/wiki/Fibonacci)
+
 [fibonacci Algorithm](https://medium.com/developers-writing/fibonacci-sequence-algorithm-in-javascript-b253dc7e320e)
+
 [ChatGpt Conversation](https://chat.openai.com/share/865930e6-f787-4890-9cfb-755b08209782)
