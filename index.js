@@ -15,4 +15,4 @@ function fibonacci(n) {
 console.log(fibonacci(3));
 console.log(fibonacci(7));
 console.log(fibonacci(10));
-console.log(fibonacci(11));
+console.log(fibonacci(1000000));
